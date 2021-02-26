@@ -1,11 +1,14 @@
 # check-available-domain
 Source check available domain 35000 / 1 hour
 
+
 Cài đặt tsc và serve
 
 sudo npm install -g typescript
 
 sudo npm install -g serve
+
+sudo npm i
 
 Sử dụng screen để chạy ngầm terminal
 
